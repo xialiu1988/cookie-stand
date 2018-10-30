@@ -69,7 +69,7 @@ var store1={
     
   calculate:function(){
     var rannum=Math.floor(Math.random()*(this.maxcust-this.mincust)+this.mincust);
-    return Math.floor(rannum*1.2);
+    return Math.floor(rannum*6.3);
   },
     
   render(){
