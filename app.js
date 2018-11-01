@@ -358,7 +358,7 @@ function createTable(){
 
   
   var thh=document.createElement('th');
-  thh.id='total-foot';
+  // thh.id='total-foot';
   thh.textContent='Total';
   tfootEl.appendChild(thh);
   
@@ -428,3 +428,4 @@ formEl.addEventListener('submit',function(event){
 
          
 });
+

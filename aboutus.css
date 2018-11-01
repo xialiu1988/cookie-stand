@@ -1,0 +1,36 @@
+body{
+ background-image: url(/Users/xialiu/codefellows/201/notes/class07/cookie-stand/7357d8129ebdec0.jpg);
+ background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size:40px;
+    font-family: 'Lobster', cursive;
+    left:400px;
+     margin-top: 40px;
+}
+  
+p{
+
+   text-align:left;
+   font-family: 'Poor Story', cursive;
+   font-size:20px;
+   color:black;
+   height:300px;
+   width:600px;
+ 
+   /* top:100px; */
+   bottom: 200px;
+   left:600px;
+   position: relative;;
+   margin-top:1px;
+   margin-left:170px;
+}
+
+#homepage{
+
+  display: block;
+  margin-left:auto;
+  marigin-right:auto;
+}
