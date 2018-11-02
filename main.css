@@ -19,21 +19,23 @@ h1{
 #aboutus{
     text-align: center;
     top:100px;
-    margin-bottom: 200px;
+    margin-bottom: 260px;
 
 }
 #storesalesinfo{
     display:block;
     text-align: center;
     /* top:100px; */
-    margin-top:-150px;
+    margin-top:-190px;
 }
 .chi{
 
-opacity: 0.4;
-    display:inline-block;
+   opacity: 0.4;
+    display:block;
     width:200px;
     height:50px;
+    margin-left:300px;
+    margin-bottom:-190px;
   
 }
 .ct{
