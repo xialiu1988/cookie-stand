@@ -17,9 +17,3 @@ storesalesinfo.addEventListener('click',function(event){
 
 });
 
-var goback=document.getElementById('homepage');
-goback.addEventListener('click',function(event){
-  event.preventDefault();
-  window.location='index.html';
-
-});
