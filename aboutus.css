@@ -30,7 +30,37 @@ p{
 
 #homepage{
 
-  display: block;
-  margin-left:auto;
-  marigin-right:auto;
+  display: inline-block;
+  /* margin-left:auto; */
+  margin-bottom:-200px;
+  /* marigin-right:auto; */
+}
+#storesalesinfo{
+
+  display: inline-block;
+  margin-bottom:auto;
+  
+  /* marigin-right:auto; */
+}
+
+.frost{
+  opacity: 0.4;
+  margin-bottom:40px;
+  display:block;
+  float: right;
+}
+.shirt{
+
+  opacity: 0.37;
+  margin-top:220px;
+/* float:bottom; */
+  display:block;
+
+}
+.family{
+  opacity: 0.3;
+  margin-top:20px;
+  /* margin-bottom:300px; */
+
+ display:block;
 }
