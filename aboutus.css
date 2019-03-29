@@ -1,0 +1,70 @@
+body{
+    background-image: url(7357d8129ebdec0.jpg);
+    background-size: cover;
+ 
+}
+
+h1{
+    text-align: center;
+    color:rgb(228, 178, 15);
+    font-size:40px;
+    font-family: 'Lobster', cursive;
+    left:400px;
+     margin-top: 40px;
+}
+  
+p{
+   float:center;
+   text-align:left;
+   font-family: 'Poor Story', cursive;
+   font-size:20px;
+   color:orange;
+   height:300px;
+   width:600px;
+   line-height: 40px;
+   /* top:100px; */
+   top: -600px;
+   left:400px;
+   position: relative;
+   margin-top:200px;
+   margin-left:170px;
+}
+
+#homepage{
+
+  display: inline-block;
+  /* margin-left:auto; */
+  margin-bottom:10px;
+  /* marigin-right:auto; */
+}
+#storesalesinfo{
+
+  display: inline-block;
+  margin-bottom:10px;
+  float:right;
+  margin-right:60px;
+}
+
+.frost{
+  opacity: 0.4;
+  margin-top:-540px;
+  display:block;
+  float:right;
+
+}
+.shirt{
+
+  opacity: 0.37;
+  margin-top:220px;
+/* float:bottom; */
+  display:block;
+  float:right;
+
+}
+.family{
+  opacity: 0.3;
+  margin-top:220px;
+  /* margin-bottom:300px; */
+
+ display:block;
+}

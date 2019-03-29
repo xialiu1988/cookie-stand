@@ -1,0 +1,60 @@
+
+
+body{
+
+    background-image: url(7357d8129ebdec0.jpg);
+    background-size: cover;
+}
+
+
+h1{
+    margin-top:50px;
+ text-align: center;
+ font-size: 40px;
+ font-family: 'Love Ya Like A Sister', cursive;
+ color:rgb(218, 88, 28);
+
+}
+
+#aboutus{
+    text-align: center;
+    top:100px;
+    margin-bottom: 260px;
+
+}
+#storesalesinfo{
+    display:block;
+    text-align: center;
+    /* top:100px; */
+    margin-top:-190px;
+}
+.chi{
+
+   opacity: 0.4;
+    display:block;
+    width:200px;
+    height:50px;
+    margin-left:300px;
+    margin-bottom:-190px;
+  
+}
+.ct{
+
+    opacity: 0.4;
+    display:inline-block;
+    width:200px;
+    height:70px;
+    margin-left:40px;
+  
+}
+
+.fish{
+
+    opacity: 0.4;
+    display:inline-block;
+    width:200px;
+    height:170px;
+  margin-left:600px;
+}
+
+
